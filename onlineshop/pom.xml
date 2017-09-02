@@ -15,6 +15,14 @@
   
   <dependencies>
   
+  <!-- Link backend project  -->
+  <dependency>
+  <groupId>net.hred</groupId>
+  <artifactId>shopbackend</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  </dependency>
+  
+  
   <!-- JAVA EE API  -->
   
   <dependency>
